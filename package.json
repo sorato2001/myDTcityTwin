@@ -1,0 +1,29 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "3d-force-graph": "^1.73.3",
+    "d3": "^7.9.0",
+    "d3-force-3d": "^3.0.5",
+    "three": "^0.166.1",
+    "three-spritetext": "^1.8.2",
+    "vue": "^3.4.31"
+  },
+  "devDependencies": {
+    "@types/cesium": "^1.67.13",
+    "@types/three": "^0.166.0",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "proj4": "^2.9.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.4",
+    "vite-plugin-cesium": "^1.2.22",
+    "vue-tsc": "^2.0.24"
+  }
+}

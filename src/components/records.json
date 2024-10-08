@@ -1,0 +1,5663 @@
+﻿{
+"links": [
+        {
+          "source": 2,
+          "target": 4,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 3,
+          "target": 1,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 3,
+          "target": 0,
+          "type": "主干道",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 4,
+          "target": 0,
+          "type": "主干道",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 5,
+          "target": 0,
+          "type": "主干道",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 6,
+          "target": 4,
+          "type": "LEFT",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 6,
+          "target": 2,
+          "type": "LEFT",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 6,
+          "target": 3,
+          "type": "RIGHT",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 6,
+          "target": 1,
+          "type": "RIGHT",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 6,
+          "target": 5,
+          "type": "BELOW",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 8,
+          "target": 3,
+          "type": "RIGHT",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 9,
+          "target": 3,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 9,
+          "target": 1,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 10,
+          "target": 12,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 10,
+          "target": 11,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 11,
+          "target": 1,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 12,
+          "target": 2,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 13,
+          "target": 8,
+          "type": "主步道",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 13,
+          "target": 6,
+          "type": "主步道",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 14,
+          "target": 8,
+          "type": "主步道",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 14,
+          "target": 6,
+          "type": "主步道",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 15,
+          "target": 105,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 15,
+          "target": 16,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 15,
+          "target": 13,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 16,
+          "target": 105,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 16,
+          "target": 17,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 17,
+          "target": 105,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 17,
+          "target": 14,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 18,
+          "target": 73,
+          "type": "CROSS",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 19,
+          "target": 21,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 19,
+          "target": 21,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 19,
+          "target": 6,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 20,
+          "target": 9,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 20,
+          "target": 1,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 20,
+          "target": 3,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 20,
+          "target": 6,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 21,
+          "target": 6,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 22,
+          "target": 9,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 22,
+          "target": 2,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 22,
+          "target": 4,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 22,
+          "target": 6,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 23,
+          "target": 9,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 23,
+          "target": 45,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 23,
+          "target": 4,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 23,
+          "target": 6,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 24,
+          "target": 5,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 24,
+          "target": 9,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 24,
+          "target": 44,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 24,
+          "target": 43,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 24,
+          "target": 6,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 25,
+          "target": 9,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 25,
+          "target": 3,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 25,
+          "target": 5,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 25,
+          "target": 6,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 25,
+          "target": 30,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 26,
+          "target": 5,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 26,
+          "target": 3,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 26,
+          "target": 9,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 26,
+          "target": 6,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 26,
+          "target": 30,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 27,
+          "target": 9,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 27,
+          "target": 5,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 27,
+          "target": 3,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 27,
+          "target": 6,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 27,
+          "target": 30,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 28,
+          "target": 6,
+          "type": "ABOVE",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 29,
+          "target": 7,
+          "type": "ABOVE",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 29,
+          "target": 8,
+          "type": "BELOW",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 30,
+          "target": 0,
+          "type": "CROSS",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 31,
+          "target": 29,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 32,
+          "target": 29,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 33,
+          "target": 29,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 34,
+          "target": 29,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 35,
+          "target": 29,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 36,
+          "target": 29,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 37,
+          "target": 30,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 38,
+          "target": 30,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 39,
+          "target": 30,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 40,
+          "target": 28,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 41,
+          "target": 28,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 42,
+          "target": 104,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 42,
+          "target": 1,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 42,
+          "target": 44,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 43,
+          "target": 104,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 43,
+          "target": 45,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 44,
+          "target": 104,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 44,
+          "target": 43,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 45,
+          "target": 104,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 45,
+          "target": 4,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 46,
+          "target": 110,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 46,
+          "target": 73,
+          "type": "CROSS",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 46,
+          "target": 47,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 46,
+          "target": 13,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 47,
+          "target": 110,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 47,
+          "target": 50,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 48,
+          "target": 110,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 48,
+          "target": 73,
+          "type": "CROSS",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 49,
+          "target": 110,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 49,
+          "target": 48,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 50,
+          "target": 110,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 50,
+          "target": 73,
+          "type": "CROSS",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 50,
+          "target": 49,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 51,
+          "target": 109,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 51,
+          "target": 52,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 52,
+          "target": 109,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 52,
+          "target": 73,
+          "type": "CROSS",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 52,
+          "target": 53,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 53,
+          "target": 109,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 53,
+          "target": 14,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 54,
+          "target": 108,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 54,
+          "target": 13,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 54,
+          "target": 55,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 55,
+          "target": 108,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 55,
+          "target": 73,
+          "type": "CROSS",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 55,
+          "target": 56,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 56,
+          "target": 108,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 56,
+          "target": 57,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 57,
+          "target": 108,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 57,
+          "target": 73,
+          "type": "CROSS",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 57,
+          "target": 58,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 58,
+          "target": 108,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 58,
+          "target": 59,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 59,
+          "target": 108,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 59,
+          "target": 73,
+          "type": "CROSS",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 59,
+          "target": 60,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 60,
+          "target": 108,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 60,
+          "target": 61,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 61,
+          "target": 108,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 61,
+          "target": 73,
+          "type": "CROSS",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 61,
+          "target": 62,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 62,
+          "target": 108,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 62,
+          "target": 14,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 63,
+          "target": 72,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 64,
+          "target": 72,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 65,
+          "target": 72,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 66,
+          "target": 72,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 67,
+          "target": 72,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 68,
+          "target": 72,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 69,
+          "target": 72,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 70,
+          "target": 72,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 71,
+          "target": 72,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 72,
+          "target": 6,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 73,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 73,
+          "target": 6,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 74,
+          "target": 107,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 74,
+          "target": 6,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 74,
+          "target": 75,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 75,
+          "target": 107,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 75,
+          "target": 76,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 76,
+          "target": 107,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 76,
+          "target": 77,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 77,
+          "target": 107,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 77,
+          "target": 78,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 78,
+          "target": 107,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 79,
+          "target": 81,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 79,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 80,
+          "target": 79,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 80,
+          "target": 81,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 80,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 81,
+          "target": 79,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 81,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 82,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 83,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 84,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 85,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 86,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 87,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 88,
+          "target": 14,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 88,
+          "target": 13,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 88,
+          "target": 96,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 88,
+          "target": 92,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 88,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 89,
+          "target": 14,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 89,
+          "target": 13,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 89,
+          "target": 96,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 89,
+          "target": 92,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 89,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 90,
+          "target": 14,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 90,
+          "target": 13,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 90,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 91,
+          "target": 8,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 91,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 92,
+          "target": 1,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 93,
+          "target": 92,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 94,
+          "target": 93,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 95,
+          "target": 94,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 96,
+          "target": 165,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 96,
+          "target": 2,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 97,
+          "target": 106,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 97,
+          "target": 98,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 98,
+          "target": 106,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 98,
+          "target": 99,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 99,
+          "target": 106,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 99,
+          "target": 100,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 100,
+          "target": 106,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 100,
+          "target": 13,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 100,
+          "target": 101,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 101,
+          "target": 106,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 101,
+          "target": 14,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 102,
+          "target": 106,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 102,
+          "target": 100,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 103,
+          "target": 8,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 103,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 104,
+          "target": 6,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 105,
+          "target": 6,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 106,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 107,
+          "target": 6,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 108,
+          "target": 6,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 109,
+          "target": 6,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 110,
+          "target": 6,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 111,
+          "target": 115,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 111,
+          "target": 112,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 112,
+          "target": 115,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 112,
+          "target": 113,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 113,
+          "target": 1,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 113,
+          "target": 115,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 113,
+          "target": 114,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 113,
+          "target": 119,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 114,
+          "target": 115,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 115,
+          "target": 6,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 115,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 116,
+          "target": 6,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 116,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 117,
+          "target": 133,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 117,
+          "target": 118,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 118,
+          "target": 133,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 118,
+          "target": 131,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 119,
+          "target": 115,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 119,
+          "target": 120,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 120,
+          "target": 13,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 120,
+          "target": 115,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 121,
+          "target": 13,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 121,
+          "target": 116,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 121,
+          "target": 122,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 122,
+          "target": 116,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 122,
+          "target": 123,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 123,
+          "target": 116,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 123,
+          "target": 124,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 124,
+          "target": 116,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 124,
+          "target": 125,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 125,
+          "target": 116,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 125,
+          "target": 126,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 126,
+          "target": 116,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 126,
+          "target": 127,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 127,
+          "target": 14,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 127,
+          "target": 116,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 127,
+          "target": 128,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 128,
+          "target": 14,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 128,
+          "target": 116,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 128,
+          "target": 129,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 129,
+          "target": 116,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 129,
+          "target": 130,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 130,
+          "target": 96,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 130,
+          "target": 116,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 131,
+          "target": 133,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 131,
+          "target": 132,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 132,
+          "target": 133,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 133,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 134,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 135,
+          "target": 8,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 136,
+          "target": 72,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 137,
+          "target": 30,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 137,
+          "target": 8,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 138,
+          "target": 8,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 139,
+          "target": 30,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 139,
+          "target": 8,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 140,
+          "target": 8,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 141,
+          "target": 30,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 141,
+          "target": 29,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 141,
+          "target": 28,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 141,
+          "target": 8,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 142,
+          "target": 8,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 143,
+          "target": 8,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 144,
+          "target": 8,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 145,
+          "target": 103,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 145,
+          "target": 97,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 145,
+          "target": 98,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 145,
+          "target": 94,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 145,
+          "target": 8,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 146,
+          "target": 96,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 146,
+          "target": 8,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 147,
+          "target": 8,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 149,
+          "target": 151,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 149,
+          "target": 154,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 149,
+          "target": 156,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 150,
+          "target": 154,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 150,
+          "target": 160,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 151,
+          "target": 155,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 152,
+          "target": 155,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 153,
+          "target": 150,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 153,
+          "target": 149,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 153,
+          "target": 155,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 153,
+          "target": 159,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 154,
+          "target": 187,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 154,
+          "target": 188,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 154,
+          "target": 156,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 155,
+          "target": 156,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 155,
+          "target": 160,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 155,
+          "target": 157,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 156,
+          "target": 148,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 157,
+          "target": 161,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 158,
+          "target": 159,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 159,
+          "target": 155,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 160,
+          "target": 94,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 160,
+          "target": 95,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 160,
+          "target": 154,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 163,
+          "target": 169,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 163,
+          "target": 162,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 164,
+          "target": 162,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 165,
+          "target": 166,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 167,
+          "target": 95,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 169,
+          "target": 170,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 169,
+          "target": 164,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 170,
+          "target": 165,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 171,
+          "target": 162,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 172,
+          "target": 168,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 173,
+          "target": 163,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 175,
+          "target": 164,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 176,
+          "target": 177,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 177,
+          "target": 178,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 181,
+          "target": 182,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 182,
+          "target": 187,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 182,
+          "target": 180,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 185,
+          "target": 187,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 186,
+          "target": 188,
+          "type": "连接",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 187,
+          "target": 166,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 187,
+          "target": 95,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 188,
+          "target": 166,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 188,
+          "target": 95,
+          "type": "相交",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 189,
+          "target": 191,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 190,
+          "target": 191,
+          "type": "BELONGS_TO",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 191,
+          "target": 7,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 192,
+          "target": 174,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 192,
+          "target": 169,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 192,
+          "target": 193,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 192,
+          "target": 7,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 193,
+          "target": 174,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 193,
+          "target": 169,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 193,
+          "target": 7,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 194,
+          "target": 165,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 194,
+          "target": 182,
+          "type": "近邻",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 194,
+          "target": 7,
+          "type": "服务于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 195,
+          "target": 30,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 196,
+          "target": 30,
+          "type": "位于",
+          "properties": {
+
+          }
+        },
+        {
+          "source": 197,
+          "target": 30,
+          "type": "位于",
+          "properties": {
+
+          }
+        }
+      ],
+"nodes": [
+        {
+          "id": 0,
+          "properties": {
+"address": "广州市天河区花城大道29号",
+"latitude": 23.1303,
+"name": "花城汇",
+"longitude": 113.3251
+          },
+          "labels": [
+            "Feature"
+          ]
+        },
+        {
+          "id": 1,
+          "properties": {
+"osm_id": 481045538,
+"FID": 404,
+"name": "珠江西路二段",
+"type": "secondary",
+"y_S": 23.1290119,
+"x_S": 113.3187604,
+"y_E": 23.1249919,
+"oneway": "yes",
+"x_E": 113.3176543
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 2,
+          "properties": {
+"osm_id": 481045536,
+"FID": 461,
+"name": "珠江东路二段",
+"type": "secondary",
+"y_S": 23.1263874,
+"x_S": 113.3203908,
+"y_E": 23.1290875,
+"oneway": "yes",
+"x_E": 113.319741
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 3,
+          "properties": {
+"osm_id": 27318112,
+"FID": 472,
+"name": "珠江西路一段",
+"type": "secondary",
+"y_S": 23.1299838,
+"x_S": 113.3183932,
+"y_E": 23.1290119,
+"oneway": "yes",
+"x_E": 113.3187604
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 4,
+          "properties": {
+"osm_id": 481045537,
+"FID": 485,
+"name": "珠江东路一段",
+"type": "secondary",
+"y_S": 23.1290875,
+"x_S": 113.319741,
+"y_E": 23.1297888,
+"oneway": "yes",
+"x_E": 113.3203729
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 5,
+          "properties": {
+"osm_id": 441997991,
+"FID": 487,
+"name": "黄埔大道西",
+"type": "secondary",
+"y_S": 23.1299838,
+"x_S": 113.3183932,
+"y_E": 23.129703,
+"oneway": "yes",
+"x_E": 113.3220201
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 6,
+          "properties": {
+"osm_id": 942039635,
+"latitude": 23.127439,
+"name": "花城汇北区",
+"longitude": 113.319245
+          },
+          "labels": [
+            "CommercialArea"
+          ]
+        },
+        {
+          "id": 7,
+          "properties": {
+"osm_id": 942039851,
+"name": "花城汇南区",
+"x": 113.319207,
+"y": 23.120813
+          },
+          "labels": [
+            "CommercialArea"
+          ]
+        },
+        {
+          "id": 8,
+          "properties": {
+"osm_id": 942039767,
+"name": "花城汇中区",
+"x": 113.3191897,
+"y": 23.12387894
+          },
+          "labels": [
+            "CommercialArea"
+          ]
+        },
+        {
+          "id": 9,
+          "properties": {
+"FID": 474,
+"osm_id": 475301084,
+"name": "辅道0",
+"type": "辅道_连接段",
+"y_S": 23.1290875,
+"x_S": 113.319741,
+"y_E": 23.1290119,
+"oneway": "yes",
+"x_E": 113.3187604
+          },
+          "labels": [
+            "Secondary"
+          ]
+        },
+        {
+          "id": 10,
+          "properties": {
+"FID": 439,
+"osm_id": 228123842,
+"name": "辅道1",
+"type": "辅道_地下通道",
+"y_S": 23.126508,
+"x_S": 113.3183327,
+"tunnel": "yes",
+"y_E": 23.1264386,
+"oneway": "yes",
+"x_E": 113.320077
+          },
+          "labels": [
+            "Secondary"
+          ]
+        },
+        {
+          "id": 11,
+          "properties": {
+"FID": 443,
+"osm_id": 228123845,
+"name": "辅道2",
+"type": "辅道_连接段",
+"y_S": 23.128114,
+"x_S": 113.3186963,
+"y_E": 23.126508,
+"oneway": "yes",
+"x_E": 113.3183327
+          },
+          "labels": [
+            "Secondary"
+          ]
+        },
+        {
+          "id": 12,
+          "properties": {
+"FID": 454,
+"osm_id": 228123844,
+"name": "辅道3",
+"type": "辅道_连接段",
+"y_S": 23.1264386,
+"x_S": 113.320077,
+"y_E": 23.127994,
+"oneway": "yes",
+"x_E": 113.3197895
+          },
+          "labels": [
+            "Secondary"
+          ]
+        },
+        {
+          "id": 13,
+          "properties": {
+"osm_id": 299795195,
+"FID": 312,
+"name": "主步道0",
+"y_S": 23.1283438,
+"type": "footway",
+"x_S": 113.3191941,
+"layer": 1,
+"y_E": 23.122113,
+"x_E": 113.3189458
+          },
+          "labels": [
+            "footway_main"
+          ]
+        },
+        {
+          "id": 14,
+          "properties": {
+"FID": 313,
+"osm_id": 299795193,
+"name": "主步道1",
+"y_S": 23.1283419,
+"type": "footway",
+"x_S": 113.3193886,
+"y_E": 23.1221092,
+"x_E": 113.3194343
+          },
+          "labels": [
+            "footway_main"
+          ]
+        },
+        {
+          "id": 15,
+          "properties": {
+"FID": 455,
+"osm_id": 299795170,
+"name": "步道0",
+"y_S": 23.1279143,
+"type": "footway",
+"x_S": 113.3191214,
+"y_E": 23.1279211,
+"x_E": 113.3190878
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 16,
+          "properties": {
+"FID": 458,
+"osm_id": 299795161,
+"name": "步道1",
+"y_S": 23.1278697,
+"type": "footway",
+"x_S": 113.3193421,
+"y_E": 23.1278916,
+"x_E": 113.3192339
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 17,
+          "properties": {
+"FID": 459,
+"osm_id": 299795153,
+"name": "步道2",
+"y_S": 23.1278402,
+"type": "footway",
+"x_S": 113.3194876,
+"y_E": 23.1278503,
+"x_E": 113.3194377
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 18,
+          "properties": {
+"osm_id": 299795166,
+"FID": 456,
+"name": "步道3",
+"bridge": "yes",
+"y_S": 23.1276883,
+"type": "footway",
+"x_S": 113.3192002,
+"y_E": 23.1276759,
+"x_E": 113.3193189
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 19,
+          "properties": {
+"FID": 98,
+"name": "小米之家",
+"x": 113.3193308,
+"y": 23.1289009
+          },
+          "labels": [
+            "amenity"
+          ]
+        },
+        {
+          "id": 20,
+          "properties": {
+"osm_id": 4690639701,
+"FID": 72,
+"name": "珠江西路北站",
+"x": 113.3186898,
+"y": 23.1289805
+          },
+          "labels": [
+            "busstop"
+          ]
+        },
+        {
+          "id": 21,
+          "properties": {
+"FID": 102,
+"name": "喜士多",
+"x": 113.3193646,
+"y": 23.1290429
+          },
+          "labels": [
+            "amenity"
+          ]
+        },
+        {
+          "id": 22,
+          "properties": {
+"osm_id": 4690639700,
+"FID": 76,
+"name": "珠江东路北站",
+"x": 113.3198221,
+"y": 23.1290524
+          },
+          "labels": [
+            "busstop"
+          ]
+        },
+        {
+          "id": 23,
+          "properties": {
+"FID": 104,
+"name": "信号灯0",
+"x": 113.3198112,
+"y": 23.1296335,
+"highway": "traffic_signals"
+          },
+          "labels": [
+            "amenity"
+          ]
+        },
+        {
+          "id": 24,
+          "properties": {
+"FID": 77,
+"osm_id": 4424623403,
+"name": "人民日报广东分社站",
+"x": 113.3192992,
+"y": 23.1297741
+          },
+          "labels": [
+            "busstop"
+          ]
+        },
+        {
+          "id": 25,
+          "properties": {
+"FID": 73,
+"osm_id": 5832393938,
+"ref": "APM-06",
+"name": "黄埔大道A",
+"x": 113.3190177,
+"y": 23.1292937
+          },
+          "labels": [
+            "SubwayStation"
+          ]
+        },
+        {
+          "id": 26,
+          "properties": {
+"FID": 74,
+"osm_id": 6490092414,
+"ref": "APM-06",
+"name": "黄埔大道B",
+"x": 113.3190715,
+"y": 23.1293596
+          },
+          "labels": [
+            "SubwayStation"
+          ]
+        },
+        {
+          "id": 27,
+          "properties": {
+"FID": 75,
+"osm_id": 5832393946,
+"ref": "APM-06",
+"name": "黄埔大道C",
+"x": 113.3191241,
+"y": 23.1294233
+          },
+          "labels": [
+            "SubwayStation"
+          ]
+        },
+        {
+          "id": 28,
+          "properties": {
+"name": "广州地铁13号线"
+          },
+          "labels": [
+            "Subway"
+          ]
+        },
+        {
+          "id": 29,
+          "properties": {
+"name": "广州地铁5号线"
+          },
+          "labels": [
+            "Subway"
+          ]
+        },
+        {
+          "id": 30,
+          "properties": {
+"name": "APM线"
+          },
+          "labels": [
+            "Subway"
+          ]
+        },
+        {
+          "id": 31,
+          "properties": {
+"FID": 4,
+"osm_id": 617427354,
+"name": "广州地铁5号线_up0",
+"y_S": 23.1216417,
+"x_S": 113.3206627,
+"layer": -2,
+"y_E": 23.102841,
+"x_E": 113.425395
+          },
+          "labels": [
+            "SubwayLine"
+          ]
+        },
+        {
+          "id": 32,
+          "properties": {
+"FID": 5,
+"osm_id": 542454660,
+"name": "广州地铁5号线_down2",
+"y_S": 23.1029726,
+"x_S": 113.4254113,
+"layer": -2,
+"y_E": 23.121717,
+"x_E": 113.3206781
+          },
+          "labels": [
+            "SubwayLine"
+          ]
+        },
+        {
+          "id": 33,
+          "properties": {
+"FID": 6,
+"osm_id": 503773611,
+"name": "广州地铁5号线_up2",
+"y_S": 23.1371079,
+"x_S": 113.2968628,
+"layer": -3,
+"y_E": 23.12189,
+"x_E": 113.3180657
+          },
+          "labels": [
+            "SubwayLine"
+          ]
+        },
+        {
+          "id": 34,
+          "properties": {
+"FID": 7,
+"osm_id": 503814661,
+"name": "广州地铁5号线_down0",
+"y_S": 23.1219525,
+"x_S": 113.3180701,
+"layer": -3,
+"y_E": 23.1372442,
+"x_E": 113.3031282
+          },
+          "labels": [
+            "SubwayLine"
+          ]
+        },
+        {
+          "id": 35,
+          "properties": {
+"FID": 12,
+"osm_id": 503983389,
+"name": "广州地铁5号线_up1",
+"y_S": 23.12189,
+"x_S": 113.3180657,
+"layer": -4,
+"y_E": 23.1216417,
+"x_E": 113.3206627
+          },
+          "labels": [
+            "SubwayLine"
+          ]
+        },
+        {
+          "id": 36,
+          "properties": {
+"FID": 13,
+"osm_id": 617427353,
+"name": "广州地铁5号线_down1",
+"y_S": 23.121717,
+"x_S": 113.3206781,
+"layer": -4,
+"y_E": 23.1219525,
+"x_E": 113.3180701
+          },
+          "labels": [
+            "SubwayLine"
+          ]
+        },
+        {
+          "id": 37,
+          "properties": {
+"FID": 14,
+"osm_id": 620330289,
+"name": "APM_up",
+"y_S": 23.1361365,
+"x_S": 113.318528,
+"layer": -3,
+"y_E": 23.1098854,
+"x_E": 113.3183041
+          },
+          "labels": [
+            "SubwayLine"
+          ]
+        },
+        {
+          "id": 38,
+          "properties": {
+"FID": 15,
+"osm_id": 620358661,
+"name": "APM_down",
+"y_S": 23.1098776,
+"x_S": 113.3184119,
+"layer": -3,
+"y_E": 23.1361315,
+"x_E": 113.31864
+          },
+          "labels": [
+            "SubwayLine"
+          ]
+        },
+        {
+          "id": 39,
+          "properties": {
+"osm_id": 617630968,
+"FID": 18,
+"service": "crossover",
+"name": "APM_交叉渡线",
+"y_S": 23.1252845,
+"x_S": 113.3190561,
+"layer": -3,
+"y_E": 23.1249932,
+"x_E": 113.3191585
+          },
+          "labels": [
+            "SubwayLine"
+          ]
+        },
+        {
+          "id": 40,
+          "properties": {
+"FID": 40,
+"osm_id": 404553829,
+"name": "广州地铁13号线_up",
+"y_S": 23.1065925,
+"x_S": 113.4269321,
+"layer": -3,
+"y_E": 23.2248179,
+"x_E": 113.1953984
+          },
+          "labels": [
+            "SubwayLine"
+          ]
+        },
+        {
+          "id": 41,
+          "properties": {
+"FID": 41,
+"osm_id": 601329380,
+"name": "广州地铁13号线_down",
+"y_S": 23.1065676,
+"x_S": 113.4268419,
+"layer": -3,
+"y_E": 23.2254135,
+"x_E": 113.1951694
+          },
+          "labels": [
+            "SubwayLine"
+          ]
+        },
+        {
+          "id": 42,
+          "properties": {
+"FID": 473,
+"osm_id": 496447344,
+"name": "步道4",
+"y_S": 23.1295351,
+"x_S": 113.3187465,
+"y_E": 23.1297419,
+"x_E": 113.3189814
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 43,
+          "properties": {
+"FID": 479,
+"osm_id": 360088313,
+"name": "步道5",
+"y_S": 23.1297306,
+"x_S": 113.3192869,
+"y_E": 23.129719,
+"x_E": 113.3196008
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 44,
+          "properties": {
+"FID": 476,
+"osm_id": 360088314,
+"name": "步道6",
+"y_S": 23.1297306,
+"x_S": 113.3192869,
+"y_E": 23.1297419,
+"x_E": 113.3189814
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 45,
+          "properties": {
+"FID": 481,
+"osm_id": 932548283,
+"name": "步道7",
+"y_S": 23.129719,
+"x_S": 113.3196008,
+"y_E": 23.129677,
+"x_E": 113.3198411
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 46,
+          "properties": {
+"osm_id": 299795149,
+"FID": 444,
+"name": "步道8",
+"bridge": "yes",
+"y_S": 23.127464,
+"x_S": 113.3190891,
+"y_E": 23.1275485,
+"x_E": 113.3189817
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 47,
+          "properties": {
+"FID": 445,
+"osm_id": 299795165,
+"name": "步道9",
+"y_S": 23.1273925,
+"x_S": 113.3191801,
+"y_E": 23.127464,
+"x_E": 113.3190891
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 48,
+          "properties": {
+"osm_id": 299795175,
+"FID": 449,
+"name": "步道10",
+"bridge": "yes",
+"y_S": 23.1271863,
+"x_S": 113.3194425,
+"y_E": 23.1272374,
+"x_E": 113.3193774
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 49,
+          "properties": {
+"FID": 452,
+"osm_id": 299795159,
+"name": "步道11",
+"y_S": 23.1272374,
+"x_S": 113.3193774,
+"y_E": 23.1273122,
+"x_E": 113.3192823
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 50,
+          "properties": {
+"osm_id": 299795184,
+"FID": 453,
+"name": "步道12",
+"bridge": "yes",
+"y_S": 23.1273122,
+"x_S": 113.3192823,
+"y_E": 23.1273925,
+"x_E": 113.3191801
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 51,
+          "properties": {
+"FID": 440,
+"osm_id": 299795148,
+"name": "步道13",
+"y_S": 23.126631,
+"x_S": 113.3195696,
+"y_E": 23.1266482,
+"x_E": 113.3193531
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 52,
+          "properties": {
+"osm_id": 299795163,
+"FID": 441,
+"name": "步道14",
+"bridge": "yes",
+"y_S": 23.1266223,
+"x_S": 113.3196786,
+"y_E": 23.126631,
+"x_E": 113.3195696
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 53,
+          "properties": {
+"FID": 442,
+"osm_id": 299795178,
+"name": "步道15",
+"y_S": 23.1266158,
+"x_S": 113.3197597,
+"y_E": 23.1266223,
+"x_E": 113.3196786
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 54,
+          "properties": {
+"FID": 435,
+"osm_id": 299795157,
+"name": "步道16",
+"y_S": 23.1268164,
+"x_S": 113.3187843,
+"y_E": 23.1268349,
+"x_E": 113.3188541
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 55,
+          "properties": {
+"osm_id": 299795158,
+"FID": 436,
+"name": "步道17",
+"bridge": "yes",
+"y_S": 23.1268349,
+"x_S": 113.3188541,
+"y_E": 23.1268629,
+"x_E": 113.3189563
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 56,
+          "properties": {
+"FID": 437,
+"osm_id": 299795182,
+"name": "步道18",
+"y_S": 23.1268629,
+"x_S": 113.3189563,
+"y_E": 23.1268794,
+"x_E": 113.3190352
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 57,
+          "properties": {
+"osm_id": 299795169,
+"FID": 438,
+"name": "步道19",
+"bridge": "yes",
+"y_S": 23.1268794,
+"x_S": 113.3190352,
+"y_E": 23.1269049,
+"x_E": 113.3191205
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 58,
+          "properties": {
+"FID": 446,
+"osm_id": 299795156,
+"name": "步道20",
+"y_S": 23.1269049,
+"x_S": 113.3191205,
+"y_E": 23.1269378,
+"x_E": 113.3192222
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 59,
+          "properties": {
+"osm_id": 299795180,
+"FID": 447,
+"name": "步道21",
+"bridge": "yes",
+"y_S": 23.1269378,
+"x_S": 113.3192222,
+"y_E": 23.1269701,
+"x_E": 113.3193256
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 60,
+          "properties": {
+"FID": 448,
+"osm_id": 299795162,
+"name": "步道22",
+"y_S": 23.1269701,
+"x_S": 113.3193256,
+"y_E": 23.1269962,
+"x_E": 113.3195643
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 61,
+          "properties": {
+"osm_id": 299795145,
+"FID": 450,
+"name": "步道23",
+"bridge": "yes",
+"y_S": 23.1269962,
+"x_S": 113.3195643,
+"y_E": 23.126998,
+"x_E": 113.3196095
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 62,
+          "properties": {
+"FID": 451,
+"osm_id": 299795172,
+"name": "步道24",
+"y_S": 23.126998,
+"x_S": 113.3196095,
+"y_E": 23.1269966,
+"x_E": 113.3196833
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 63,
+          "properties": {
+"FID": 1,
+"osm_id": 3038988801,
+"name": "tree1",
+"x": 113.3189628,
+"y": 23.1286682
+          },
+          "labels": [
+            "tree"
+          ]
+        },
+        {
+          "id": 64,
+          "properties": {
+"FID": 2,
+"osm_id": 3038988807,
+"name": "tree2",
+"x": 113.3189633,
+"y": 23.1287112
+          },
+          "labels": [
+            "tree"
+          ]
+        },
+        {
+          "id": 65,
+          "properties": {
+"FID": 3,
+"osm_id": 3038988813,
+"name": "tree3",
+"x": 113.318964,
+"y": 23.1287618
+          },
+          "labels": [
+            "tree"
+          ]
+        },
+        {
+          "id": 66,
+          "properties": {
+"FID": 4,
+"osm_id": 3038988800,
+"name": "tree4",
+"x": 113.3190098,
+"y": 23.1286677
+          },
+          "labels": [
+            "tree"
+          ]
+        },
+        {
+          "id": 67,
+          "properties": {
+"FID": 5,
+"osm_id": 3038988799,
+"name": "tree5",
+"x": 113.3190609,
+"y": 23.1286672
+          },
+          "labels": [
+            "tree"
+          ]
+        },
+        {
+          "id": 68,
+          "properties": {
+"FID": 6,
+"osm_id": 3038988806,
+"name": "tree6",
+"x": 113.3190113,
+"y": 23.1287107
+          },
+          "labels": [
+            "tree"
+          ]
+        },
+        {
+          "id": 69,
+          "properties": {
+"FID": 7,
+"osm_id": 3038988805,
+"name": "tree7",
+"x": 113.3190615,
+"y": 23.1287102
+          },
+          "labels": [
+            "tree"
+          ]
+        },
+        {
+          "id": 70,
+          "properties": {
+"FID": 8,
+"osm_id": 3038988812,
+"name": "tree8",
+"x": 113.319013,
+"y": 23.1287613
+          },
+          "labels": [
+            "tree"
+          ]
+        },
+        {
+          "id": 71,
+          "properties": {
+"FID": 9,
+"osm_id": 3038988811,
+"name": "tree9",
+"x": 113.3190621,
+"y": 23.1287608
+          },
+          "labels": [
+            "tree"
+          ]
+        },
+        {
+          "id": 72,
+          "properties": {
+"name": "绿化0"
+          },
+          "labels": [
+            "GreenSpace"
+          ]
+        },
+        {
+          "id": 73,
+          "properties": {
+"osm_id": -3984726,
+"FID": 1,
+"name": "水池1",
+"x": 113.3192404,
+"y": 23.12666961
+          },
+          "labels": [
+            "Pond"
+          ]
+        },
+        {
+          "id": 74,
+          "properties": {
+"FID": 475,
+"osm_id": 932548280,
+"name": "步道25",
+"y_S": 23.1297306,
+"x_S": 113.3192869,
+"tunnel": "yes",
+"layer": -1,
+"y_E": 23.1294332,
+"x_E": 113.3192805
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 75,
+          "properties": {
+"FID": 480,
+"osm_id": 312565419,
+"name": "步道26",
+"y_S": 23.1297306,
+"x_S": 113.3192869,
+"tunnel": "yes",
+"layer": -1,
+"y_E": 23.1301513,
+"x_E": 113.3193077
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 76,
+          "properties": {
+"FID": 483,
+"osm_id": 932548277,
+"name": "步道27",
+"y_S": 23.1301513,
+"x_S": 113.3193077,
+"tunnel": "yes",
+"layer": -1,
+"y_E": 23.1302833,
+"x_E": 113.3191627
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 77,
+          "properties": {
+"osm_id": 932548278,
+"FID": 478,
+"name": "步道28",
+"y_S": 23.1302833,
+"x_S": 113.3191627,
+"tunnel": "yes",
+"y_E": 23.130294,
+"x_E": 113.3189679
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 78,
+          "properties": {
+"FID": 477,
+"osm_id": 932548279,
+"name": "步道29",
+"y_S": 23.130294,
+"x_S": 113.3189679,
+"y_E": 23.1302264,
+"x_E": 113.3189606
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 79,
+          "properties": {
+"osm_id": 586026852,
+"FID": 40,
+"name": "高德置地广场（夏）C座",
+"x": 113.3179989,
+"y": 23.12280884,
+"building": "commercial"
+          },
+          "labels": [
+            "Building"
+          ]
+        },
+        {
+          "id": 80,
+          "properties": {
+"FID": 41,
+"osm_id": 299687659,
+"name": "高德置地广场（夏）",
+"x": 113.3180122,
+"y": 23.12313801,
+"building": "commercial"
+          },
+          "labels": [
+            "Building"
+          ]
+        },
+        {
+          "id": 81,
+          "properties": {
+"osm_id": 586026851,
+"FID": 42,
+"name": "高德置地广场（夏）D座",
+"x": 113.317911,
+"y": 23.12347372,
+"building": "commercial"
+          },
+          "labels": [
+            "Building"
+          ]
+        },
+        {
+          "id": 82,
+          "properties": {
+"osm_id": 543830125,
+"FID": 48,
+"name": "富力君悦大酒店A",
+"x": 113.3179434,
+"y": 23.12444149,
+"building": "yes"
+          },
+          "labels": [
+            "Building"
+          ]
+        },
+        {
+          "id": 83,
+          "properties": {
+"FID": 49,
+"osm_id": 299812753,
+"name": "富力君悦大酒店",
+"x": 113.3180481,
+"y": 23.12480441,
+"tourism": "hotel",
+"building": "hotel"
+          },
+          "labels": [
+            "Building"
+          ]
+        },
+        {
+          "id": 84,
+          "properties": {
+"osm_id": 543830124,
+"FID": 52,
+"name": "富力君悦大酒店B",
+"x": 113.3180484,
+"y": 23.12517737,
+"building": "yes"
+          },
+          "labels": [
+            "Building"
+          ]
+        },
+        {
+          "id": 85,
+          "properties": {
+"FID": 55,
+"osm_id": 299812758,
+"name": "高德置地广场（秋）",
+"x": 113.3203568,
+"y": 23.12286219,
+"building": "commercial"
+          },
+          "labels": [
+            "Building"
+          ]
+        },
+        {
+          "id": 86,
+          "properties": {
+"FID": 63,
+"osm_id": 299812756,
+"name": "珠江投资大厦",
+"x": 113.3203664,
+"y": 23.12468601,
+"building": "office"
+          },
+          "labels": [
+            "Building"
+          ]
+        },
+        {
+          "id": 87,
+          "properties": {
+"FID": 314,
+"osm_id": 299795164,
+"name": "步道30",
+"y_S": 23.1257428,
+"x_S": 113.3189413,
+"y_E": 23.125815,
+"x_E": 113.3191615
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 88,
+          "properties": {
+"FID": 308,
+"osm_id": 299795205,
+"name": "步道31",
+"y_S": 23.1235801,
+"x_S": 113.3208366,
+"y_E": 23.1238877,
+"x_E": 113.3184374
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 89,
+          "properties": {
+"FID": 309,
+"osm_id": 299795215,
+"name": "步道32",
+"y_S": 23.1241158,
+"x_S": 113.3175469,
+"y_E": 23.124018,
+"x_E": 113.3208308
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 90,
+          "properties": {
+"FID": 310,
+"osm_id": 299795197,
+"name": "步道33",
+"y_S": 23.1245294,
+"x_S": 113.3183635,
+"y_E": 23.1246394,
+"x_E": 113.3199923
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 91,
+          "properties": {
+"FID": 266,
+"osm_id": 559470962,
+"name": "步道34",
+"y_S": 23.1229081,
+"x_S": 113.3206295,
+"y_E": 23.1228554,
+"x_E": 113.3209952
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 92,
+          "properties": {
+"osm_id": 481045539,
+"FID": 217,
+"name": "珠江西路三段",
+"y_S": 23.1249919,
+"x_S": 113.3176543,
+"y_E": 23.1236095,
+"oneway": "yes",
+"x_E": 113.3175381
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 93,
+          "properties": {
+"osm_id": 693765746,
+"FID": 200,
+"name": "珠江西路四段",
+"y_S": 23.1236095,
+"x_S": 113.3175381,
+"y_E": 23.1231165,
+"oneway": "yes",
+"x_E": 113.3175721
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 94,
+          "properties": {
+"osm_id": 448790072,
+"FID": 194,
+"name": "珠江西路五段",
+"y_S": 23.1231165,
+"x_S": 113.3175721,
+"y_E": 23.122556,
+"oneway": "yes",
+"x_E": 113.3176687
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 95,
+          "properties": {
+"osm_id": 448790073,
+"FID": 167,
+"name": "珠江西路六段",
+"y_S": 23.122556,
+"x_S": 113.3176687,
+"y_E": 23.1213709,
+"oneway": "yes",
+"x_E": 113.3180779
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 96,
+          "properties": {
+"osm_id": 550008867,
+"FID": 311,
+"name": "珠江东路三段",
+"y_S": 23.1218848,
+"x_S": 113.3205658,
+"y_E": 23.1263874,
+"oneway": "yes",
+"x_E": 113.3203908
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 97,
+          "properties": {
+"FID": 196,
+"osm_id": 586026853,
+"name": "步道35",
+"y_S": 23.12301,
+"x_S": 113.3175939,
+"y_E": 23.1230581,
+"x_E": 113.3177514
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 98,
+          "properties": {
+"FID": 201,
+"osm_id": 586026854,
+"name": "步道36",
+"y_S": 23.1230581,
+"x_S": 113.3177514,
+"y_E": 23.1231605,
+"x_E": 113.3182658
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 99,
+          "properties": {
+"FID": 202,
+"osm_id": 586026855,
+"name": "步道37",
+"y_S": 23.1231605,
+"x_S": 113.3182658,
+"y_E": 23.1231893,
+"x_E": 113.3183544
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 100,
+          "properties": {
+"FID": 264,
+"osm_id": 299795198,
+"name": "步道38",
+"y_S": 23.1226749,
+"x_S": 113.3199759,
+"y_E": 23.1232442,
+"x_E": 113.3190595
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 101,
+          "properties": {
+"FID": 265,
+"osm_id": 586026856,
+"name": "步道39",
+"y_S": 23.1230683,
+"x_S": 113.3193544,
+"y_E": 23.1226749,
+"x_E": 113.3199759
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 102,
+          "properties": {
+"FID": 263,
+"osm_id": 554611950,
+"name": "步道40",
+"y_S": 23.1226945,
+"x_S": 113.3192231,
+"y_E": 23.1224519,
+"x_E": 113.3192217
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 103,
+          "properties": {
+"FID": 195,
+"osm_id": 559470933,
+"name": "步道41",
+"y_S": 23.122973,
+"x_S": 113.3173658,
+"y_E": 23.1231099,
+"x_E": 113.3177707
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 104,
+          "properties": {
+"name": "步道4_6_5_7"
+          },
+          "labels": [
+            "footway_link"
+          ]
+        },
+        {
+          "id": 105,
+          "properties": {
+"name": "步道0_1_2"
+          },
+          "labels": [
+            "footway_link"
+          ]
+        },
+        {
+          "id": 106,
+          "properties": {
+"name": "步道35_36_37_38_39_40"
+          },
+          "labels": [
+            "footway_link"
+          ]
+        },
+        {
+          "id": 107,
+          "properties": {
+"name": "步道25_26_27_28_29"
+          },
+          "labels": [
+            "footway_link"
+          ]
+        },
+        {
+          "id": 108,
+          "properties": {
+"name": "步道16_17_18_19_20_21_22_23_24"
+          },
+          "labels": [
+            "footway_link"
+          ]
+        },
+        {
+          "id": 109,
+          "properties": {
+"name": "步道13_14_15"
+          },
+          "labels": [
+            "footway_link"
+          ]
+        },
+        {
+          "id": 110,
+          "properties": {
+"name": "步道8_9_10_12_11_10"
+          },
+          "labels": [
+            "footway_link"
+          ]
+        },
+        {
+          "id": 111,
+          "properties": {
+"FID": 234,
+"osm_id": 547062356,
+"name": "步道52",
+"y_S": 23.1259885,
+"x_S": 113.3172225,
+"y_E": 23.1260632,
+"x_E": 113.3172003
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 112,
+          "properties": {
+"FID": 235,
+"osm_id": 299862458,
+"name": "步道53",
+"y_S": 23.1259885,
+"x_S": 113.3172225,
+"y_E": 23.1259718,
+"x_E": 113.3174679
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 113,
+          "properties": {
+"FID": 402,
+"osm_id": 299795200,
+"name": "步道54",
+"y_S": 23.1264969,
+"x_S": 113.3180247,
+"y_E": 23.1259718,
+"x_E": 113.3174679
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 114,
+          "properties": {
+"FID": 403,
+"osm_id": 299862456,
+"name": "步道55",
+"y_S": 23.126729,
+"x_S": 113.3180687,
+"y_E": 23.1264969,
+"x_E": 113.3180247
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 115,
+          "properties": {
+"name": "步道234_315"
+          },
+          "labels": [
+            "footway_link"
+          ]
+        },
+        {
+          "id": 116,
+          "properties": {
+"name": "步道316_330"
+          },
+          "labels": [
+            "footway_link"
+          ]
+        },
+        {
+          "id": 117,
+          "properties": {
+"FID": 232,
+"osm_id": 444418077,
+"name": "步道56",
+"y_S": 23.1249919,
+"x_S": 113.3176543,
+"y_E": 23.1247363,
+"x_E": 113.317225
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 118,
+          "properties": {
+"FID": 233,
+"osm_id": 248407675,
+"name": "步道57",
+"y_S": 23.1259761,
+"x_S": 113.3181563,
+"y_E": 23.1249919,
+"x_E": 113.3176543
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 119,
+          "properties": {
+"FID": 236,
+"osm_id": 299795179,
+"name": "步道40",
+"y_S": 23.126107,
+"x_S": 113.3181833,
+"y_E": 23.1261348,
+"x_E": 113.3183949
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 120,
+          "properties": {
+"FID": 315,
+"osm_id": 547062354,
+"name": "步道41",
+"y_S": 23.1261348,
+"x_S": 113.3183949,
+"y_E": 23.1262143,
+"x_E": 113.318671
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 121,
+          "properties": {
+"FID": 316,
+"osm_id": 299795136,
+"name": "步道42",
+"y_S": 23.1261499,
+"x_S": 113.3188223,
+"y_E": 23.1262328,
+"x_E": 113.3186742
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 122,
+          "properties": {
+"FID": 318,
+"osm_id": 299795160,
+"name": "步道43",
+"y_S": 23.1261381,
+"x_S": 113.3188747,
+"y_E": 23.1261499,
+"x_E": 113.3188223
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 123,
+          "properties": {
+"FID": 317,
+"osm_id": 299795176,
+"name": "步道44",
+"y_S": 23.126102,
+"x_S": 113.3190077,
+"y_E": 23.1261381,
+"x_E": 113.3188747
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 124,
+          "properties": {
+"FID": 319,
+"osm_id": 299795152,
+"name": "步道45",
+"y_S": 23.126079,
+"x_S": 113.3190778,
+"y_E": 23.126102,
+"x_E": 113.3190077
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 125,
+          "properties": {
+"FID": 321,
+"osm_id": 299795167,
+"name": "步道46",
+"y_S": 23.1260153,
+"x_S": 113.3193106,
+"y_E": 23.126079,
+"x_E": 113.3190778
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 126,
+          "properties": {
+"FID": 323,
+"osm_id": 299795187,
+"name": "步道47",
+"y_S": 23.1259682,
+"x_S": 113.3195546,
+"y_E": 23.1260153,
+"x_E": 113.3193106
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 127,
+          "properties": {
+"FID": 325,
+"osm_id": 299795150,
+"name": "步道48",
+"y_S": 23.1259111,
+"x_S": 113.3198267,
+"y_E": 23.1259682,
+"x_E": 113.3195546
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 128,
+          "properties": {
+"FID": 327,
+"osm_id": 547062355,
+"name": "步道49",
+"y_S": 23.1259111,
+"x_S": 113.3198267,
+"y_E": 23.1259854,
+"x_E": 113.3201411
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 129,
+          "properties": {
+"FID": 328,
+"osm_id": 299795140,
+"name": "步道50",
+"y_S": 23.1259608,
+"x_S": 113.3203488,
+"y_E": 23.1259854,
+"x_E": 113.3201411
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 130,
+          "properties": {
+"FID": 330,
+"osm_id": 299795202,
+"name": "步道51",
+"y_S": 23.1256721,
+"x_S": 113.3207533,
+"y_E": 23.1256721,
+"x_E": 113.3207533
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 131,
+          "properties": {
+"osm_id": 248407681,
+"FID": 320,
+"name": "步道58",
+"y_S": 23.1257935,
+"x_S": 113.320345,
+"tunnel": "yes",
+"layer": -1,
+"y_E": 23.1259761,
+"x_E": 113.3181563
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 132,
+          "properties": {
+"FID": 326,
+"osm_id": 248407680,
+"name": "步道59",
+"y_S": 23.1244714,
+"x_S": 113.320819,
+"y_E": 23.1257935,
+"x_E": 113.320345
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 133,
+          "properties": {
+"name": "步道232_326"
+          },
+          "labels": [
+            "footway_link"
+          ]
+        },
+        {
+          "id": 134,
+          "properties": {
+"osm_id": 228124193,
+"FID": 322,
+"name": "金穗路隧道",
+"highway": "secondary",
+"y_S": 23.1261072,
+"x_S": 113.3178554,
+"layer": -1,
+"tunnel": "yes",
+"y_E": 23.125871,
+"oneway": "yes",
+"x_E": 113.3206627
+          },
+          "labels": [
+            "Secondary"
+          ]
+        },
+        {
+          "id": 135,
+          "properties": {
+"osm_id": 228124191,
+"FID": 324,
+"name": "金穗路隧道返",
+"highway": "secondary",
+"y_S": 23.1259571,
+"x_S": 113.3206694,
+"layer": -1,
+"tunnel": "yes",
+"y_E": 23.1261888,
+"oneway": "yes",
+"x_E": 113.3178718
+          },
+          "labels": [
+            "Secondary"
+          ]
+        },
+        {
+          "id": 136,
+          "properties": {
+"FID": 0,
+"osm_id": 9076517236,
+"name": "tree0",
+"x": 113.320359,
+"y": 23.1255894
+          },
+          "labels": [
+            "tree"
+          ]
+        },
+        {
+          "id": 137,
+          "properties": {
+"FID": 52,
+"osm_id": 5352227012,
+"ref": "APM-05",
+"name": "花城大道站 A出入口",
+"x": 113.3191722,
+"y": 23.1221746
+          },
+          "labels": [
+            "SubwayStation"
+          ]
+        },
+        {
+          "id": 138,
+          "properties": {
+"FID": 44,
+"osm_id": 4457674889,
+"name": "珠江西路南站",
+"x": 113.3174885,
+"y": 23.1228518,
+"highway": "bus_stop"
+          },
+          "labels": [
+            "busstop"
+          ]
+        },
+        {
+          "id": 139,
+          "properties": {
+"FID": 57,
+"osm_id": 5836394798,
+"ref": "APM-05",
+"name": "妇儿中心站 A出入口",
+"x": 113.3188636,
+"y": 23.1256298
+          },
+          "labels": [
+            "SubwayStation"
+          ]
+        },
+        {
+          "id": 140,
+          "properties": {
+"osm_id": 6453866426,
+"FID": 45,
+"name": "华成路(高德置地广场)总站",
+"x": 113.3172477,
+"y": 23.123204,
+"highway": "bus_stop"
+          },
+          "labels": [
+            "busstop"
+          ]
+        },
+        {
+          "id": 141,
+          "properties": {
+"FID": 59,
+"osm_id": 5836394801,
+"ref": "APM-05",
+"name": "妇儿中心站 B出入口",
+"x": 113.3195227,
+"y": 23.1255942
+          },
+          "labels": [
+            "SubwayStation"
+          ]
+        },
+        {
+          "id": 142,
+          "properties": {
+"osm_id": 4690639702,
+"FID": 46,
+"name": "珠江大道西(华明路口)站",
+"x": 113.3171207,
+"y": 23.124787,
+"highway": "bus_stop"
+          },
+          "labels": [
+            "busstop"
+          ]
+        },
+        {
+          "id": 143,
+          "properties": {
+"FID": 47,
+"osm_id": 5117881036,
+"name": "珠江西路中站",
+"x": 113.3175909,
+"y": 23.1252034,
+"highway": "bus_stop"
+          },
+          "labels": [
+            "busstop"
+          ]
+        },
+        {
+          "id": 144,
+          "properties": {
+"FID": 68,
+"osm_id": 5117881036,
+"name": "珠江西路中站",
+"x": 113.3175909,
+"y": 23.1252034,
+"highway": "bus_stop"
+          },
+          "labels": [
+            "busstop"
+          ]
+        },
+        {
+          "id": 145,
+          "properties": {
+"FID": 61,
+"osm_id": 7846579545,
+"name": "New Balance",
+"x": 113.3178285,
+"y": 23.1229907
+          },
+          "labels": [
+            "amenity"
+          ]
+        },
+        {
+          "id": 146,
+          "properties": {
+"FID": 71,
+"osm_id": 5651137723,
+"name": "星巴克",
+"x": 113.3208105,
+"y": 23.1226137
+          },
+          "labels": [
+            "amenity"
+          ]
+        },
+        {
+          "id": 147,
+          "properties": {
+"osm_id": 5286011115,
+"FID": 78,
+"name": "中国农业银行",
+"x": 113.3204786,
+"y": 23.1247291
+          },
+          "labels": [
+            "amenity"
+          ]
+        },
+        {
+          "id": 148,
+          "properties": {
+"osm_id": 444149841,
+"FID": 53,
+"name": "步道60",
+"highway": "secondary_link",
+"y_S": 23.1213709,
+"x_S": 113.3180779,
+"y_E": 23.1199584,
+"oneway": "yes",
+"x_E": 113.3186392
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 149,
+          "properties": {
+"osm_id": 444126144,
+"FID": 156,
+"name": "步道61",
+"highway": "secondary_link",
+"y_S": 23.1218956,
+"x_S": 113.3163731,
+"y_E": 23.1217037,
+"oneway": "yes",
+"x_E": 113.3175501
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 150,
+          "properties": {
+"osm_id": 444126145,
+"FID": 158,
+"name": "步道62",
+"highway": "secondary_link",
+"y_S": 23.122046,
+"x_S": 113.3174115,
+"y_E": 23.122121,
+"oneway": "yes",
+"x_E": 113.3163536
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 151,
+          "properties": {
+"FID": 160,
+"osm_id": 995559518,
+"name": "步道63",
+"y_S": 23.1215647,
+"x_S": 113.317393,
+"y_E": 23.121716,
+"x_E": 113.3174042
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 152,
+          "properties": {
+"FID": 162,
+"osm_id": 559485936,
+"name": "步道65",
+"y_S": 23.1215999,
+"x_S": 113.3176801,
+"y_E": 23.121545,
+"x_E": 113.3176773
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 153,
+          "properties": {
+"FID": 163,
+"osm_id": 559470965,
+"name": "步道66",
+"y_S": 23.1214892,
+"x_S": 113.3171945,
+"y_E": 23.1224362,
+"x_E": 113.3172289
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 154,
+          "properties": {
+"osm_id": 444126146,
+"FID": 164,
+"name": "步道67",
+"highway": "tertiary_link",
+"y_S": 23.1217037,
+"x_S": 113.3175501,
+"y_E": 23.122046,
+"oneway": "yes",
+"x_E": 113.3174115
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 155,
+          "properties": {
+"FID": 165,
+"osm_id": 503810994,
+"name": "步道68",
+"y_S": 23.1221248,
+"x_S": 113.3172169,
+"y_E": 23.121639,
+"x_E": 113.3172051
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 156,
+          "properties": {
+"osm_id": 299795207,
+"FID": 166,
+"name": "步道69",
+"highway": "secondary_link",
+"y_S": 23.1217037,
+"x_S": 113.3175501,
+"y_E": 23.1213709,
+"oneway": "yes",
+"x_E": 113.3180779
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 157,
+          "properties": {
+"FID": 168,
+"osm_id": 299862455,
+"name": "步道70",
+"y_S": 23.1217992,
+"x_S": 113.3182811,
+"y_E": 23.1217815,
+"x_E": 113.3185384
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 158,
+          "properties": {
+"FID": 184,
+"osm_id": 995559517,
+"name": "步道71",
+"y_S": 23.1221395,
+"x_S": 113.3169424,
+"y_E": 23.1220796,
+"x_E": 113.3169382
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 159,
+          "properties": {
+"FID": 185,
+"osm_id": 559485940,
+"name": "步道72",
+"y_S": 23.1221248,
+"x_S": 113.3172169,
+"y_E": 23.1221395,
+"x_E": 113.3169424
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 160,
+          "properties": {
+"osm_id": 248407678,
+"FID": 193,
+"name": "步道73",
+"highway": "secondary_link",
+"y_S": 23.122556,
+"x_S": 113.3176687,
+"y_E": 23.122046,
+"oneway": "yes",
+"x_E": 113.3174115
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 161,
+          "properties": {
+"FID": 245,
+"osm_id": 554611941,
+"name": "步道74",
+"y_S": 23.1217566,
+"x_S": 113.3188205,
+"y_E": 23.1217815,
+"x_E": 113.3185384
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 162,
+          "properties": {
+"FID": 91,
+"osm_id": 603486756,
+"name": "环岛0",
+"y_S": 23.1189315,
+"x_S": 113.3193215,
+"layer": -1,
+"y_E": 23.1189315,
+"x_E": 113.3193215
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 163,
+          "properties": {
+"FID": 92,
+"osm_id": 603486755,
+"name": "西隧道0",
+"y_S": 23.1195256,
+"x_S": 113.3187893,
+"layer": -1,
+"y_E": 23.1191264,
+"x_E": 113.3188998
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 164,
+          "properties": {
+"FID": 98,
+"osm_id": 603486758,
+"name": "东隧道0",
+"y_S": 23.1191502,
+"x_S": 113.3193981,
+"layer": -1,
+"y_E": 23.1195712,
+"x_E": 113.3196016
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 165,
+          "properties": {
+"osm_id": 444149844,
+"FID": 250,
+"name": "珠江东路五段",
+"y_S": 23.1206018,
+"x_S": 113.3200378,
+"y_E": 23.1212093,
+"x_E": 113.3203088
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 166,
+          "properties": {
+"osm_id": 444232018,
+"FID": 257,
+"name": "珠江东路四段",
+"y_S": 23.1212093,
+"x_S": 113.3203088,
+"y_E": 23.1218848,
+"x_E": 113.3205658
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 167,
+          "properties": {
+"osm_id": 737631342,
+"FID": 52,
+"name": "珠江西路七段",
+"y_S": 23.1213709,
+"x_S": 113.3180779,
+"y_E": 23.1194909,
+"x_E": 113.3169054
+          },
+          "labels": [
+            "MainRoad"
+          ]
+        },
+        {
+          "id": 168,
+          "properties": {
+"FID": 90,
+"osm_id": 617780114,
+"name": "辅道4",
+"y_S": 23.1192047,
+"x_S": 113.3191726,
+"y_E": 23.1192047,
+"x_E": 113.3191726
+          },
+          "labels": [
+            "Secondary"
+          ]
+        },
+        {
+          "id": 169,
+          "properties": {
+"FID": 97,
+"osm_id": 444149842,
+"name": "辅道5",
+"highway": "secondary_link",
+"y_S": 23.1199584,
+"x_S": 113.3186392,
+"layer": -1,
+"y_E": 23.119707,
+"x_E": 113.3196538
+          },
+          "labels": [
+            "Secondary"
+          ]
+        },
+        {
+          "id": 170,
+          "properties": {
+"FID": 101,
+"osm_id": 27318117,
+"name": "辅道6",
+"highway": "secondary_link",
+"y_S": 23.119707,
+"x_S": 113.3196538,
+"y_E": 23.1206018,
+"x_E": 113.3200378
+          },
+          "labels": [
+            "Secondary"
+          ]
+        },
+        {
+          "id": 171,
+          "properties": {
+"FID": 89,
+"osm_id": 617780115,
+"name": "步道75",
+"y_S": 23.1189921,
+"x_S": 113.319171,
+"tunnel": "yes",
+"layer": -1,
+"y_E": 23.1184971,
+"x_E": 113.3191589
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 172,
+          "properties": {
+"osm_id": 1062033385,
+"FID": 93,
+"name": "步道76",
+"y_S": 23.1192055,
+"x_S": 113.3191368,
+"layer": 1,
+"y_E": 23.1193079,
+"x_E": 113.3191014
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 173,
+          "properties": {
+"FID": 95,
+"osm_id": 1155966371,
+"name": "步道77",
+"y_S": 23.1195471,
+"x_S": 113.3184012,
+"y_E": 23.1194128,
+"x_E": 113.3188937
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 174,
+          "properties": {
+"FID": 96,
+"osm_id": 554611942,
+"name": "步道78",
+"y_S": 23.1195423,
+"x_S": 113.3191467,
+"y_E": 23.1197016,
+"x_E": 113.3191493
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 175,
+          "properties": {
+"FID": 99,
+"osm_id": 1155966372,
+"name": "步道79",
+"y_S": 23.119406,
+"x_S": 113.3194178,
+"y_E": 23.1194337,
+"x_E": 113.3197895
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 176,
+          "properties": {
+"FID": 237,
+"osm_id": 299795186,
+"name": "步道80",
+"y_S": 23.1212655,
+"x_S": 113.3185525,
+"y_E": 23.1211936,
+"x_E": 113.3185882
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 177,
+          "properties": {
+"FID": 238,
+"osm_id": 299795189,
+"name": "步道81",
+"y_S": 23.1216651,
+"x_S": 113.3187821,
+"y_E": 23.1211918,
+"x_E": 113.3184873
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 178,
+          "properties": {
+"FID": 239,
+"osm_id": 299795151,
+"name": "步道82",
+"y_S": 23.1210972,
+"x_S": 113.3187377,
+"y_E": 23.1211008,
+"x_E": 113.3189168
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 179,
+          "properties": {
+"FID": 240,
+"osm_id": 554611948,
+"name": "步道83",
+"y_S": 23.1206631,
+"x_S": 113.3191674,
+"y_E": 23.1209949,
+"x_E": 113.3191714
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 180,
+          "properties": {
+"FID": 241,
+"osm_id": 299795142,
+"name": "步道84",
+"y_S": 23.1210829,
+"x_S": 113.3196617,
+"y_E": 23.1210829,
+"x_E": 113.3194427
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 181,
+          "properties": {
+"FID": 242,
+"osm_id": 299795194,
+"name": "步道85",
+"y_S": 23.1213406,
+"x_S": 113.319785,
+"y_E": 23.121174,
+"x_E": 113.3197665
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 182,
+          "properties": {
+"FID": 243,
+"osm_id": 299795190,
+"name": "步道86",
+"y_S": 23.1216577,
+"x_S": 113.3196181,
+"y_E": 23.1211972,
+"x_E": 113.3198927
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 183,
+          "properties": {
+"FID": 244,
+"osm_id": 554611945,
+"name": "步道87",
+"y_S": 23.121523,
+"x_S": 113.3190407,
+"y_E": 23.1214011,
+"x_E": 113.3190393
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 184,
+          "properties": {
+"FID": 246,
+"osm_id": 554611944,
+"name": "步道88",
+"y_S": 23.1215207,
+"x_S": 113.3193304,
+"y_E": 23.1214,
+"x_E": 113.3193304
+          },
+          "labels": [
+            "footway"
+          ]
+        },
+        {
+          "id": 185,
+          "properties": {
+"osm_id": 526242006,
+"FID": 157,
+"name": "花城大道2",
+"y_S": 23.1218956,
+"x_S": 113.3163731,
+"y_E": 23.1217984,
+"x_E": 113.3175461
+          },
+          "labels": [
+            "Secondary"
+          ]
+        },
+        {
+          "id": 186,
+          "properties": {
+"osm_id": 248407677,
+"FID": 155,
+"name": "花城大道",
+"y_S": 23.1219167,
+"x_S": 113.3175497,
+"tunnel": "yes",
+"y_E": 23.1220911,
+"oneway": "yes",
+"x_E": 113.3158931
+          },
+          "labels": [
+            "Secondary"
+          ]
+        },
+        {
+          "id": 187,
+          "properties": {
+"FID": 247,
+"osm_id": 248407682,
+"name": "CBD隧道",
+"y_S": 23.1217984,
+"x_S": 113.3175461,
+"layer": -1,
+"y_E": 23.1215281,
+"oneway": "yes",
+"tunnel": "yes",
+"x_E": 113.3208175
+          },
+          "labels": [
+            "Secondary"
+          ]
+        },
+        {
+          "id": 188,
+          "properties": {
+"FID": 249,
+"osm_id": 248407685,
+"name": "CBD隧道",
+"y_S": 23.1216448,
+"x_S": 113.3208302,
+"layer": -1,
+"y_E": 23.1219167,
+"oneway": "yes",
+"tunnel": "yes",
+"x_E": 113.3175497
+          },
+          "labels": [
+            "Secondary"
+          ]
+        },
+        {
+          "id": 189,
+          "properties": {
+"FID": 14,
+"osm_id": 299687651,
+"leaf_cycle": "evergreen",
+"name": "wood0",
+"x": 113.3186874,
+"y": 23.1191098,
+"leaf_type": "broadleaved"
+          },
+          "labels": [
+            "Woods"
+          ]
+        },
+        {
+          "id": 190,
+          "properties": {
+"FID": 16,
+"osm_id": 299687648,
+"leaf_cycle": "evergreen",
+"name": "wood1",
+"x": 113.3196111,
+"y": 23.11919066,
+"leaf_type": "broadleaved"
+          },
+          "labels": [
+            "Woods"
+          ]
+        },
+        {
+          "id": 191,
+          "properties": {
+"name": "绿化1"
+          },
+          "labels": [
+            "GreenSpace"
+          ]
+        },
+        {
+          "id": 192,
+          "properties": {
+"FID": 32,
+"osm_id": 8625800757,
+"name": "星巴克",
+"x": 113.3189672,
+"y": 23.1197246
+          },
+          "labels": [
+            "amenity"
+          ]
+        },
+        {
+          "id": 193,
+          "properties": {
+"osm_id": 9372207903,
+"FID": 33,
+"name": "奈雪的茶",
+"x": 113.3190477,
+"y": 23.1199288
+          },
+          "labels": [
+            "amenity"
+          ]
+        },
+        {
+          "id": 194,
+          "properties": {
+"FID": 69,
+"osm_id": 5596657472,
+"name": "toilets0",
+"x": 113.3198197,
+"y": 23.1208832
+          },
+          "labels": [
+            "amenity"
+          ]
+        },
+        {
+          "id": 195,
+          "properties": {
+"FID": 27,
+"osm_id": 9100071001,
+"ref": "APM线",
+"name": "大剧院站 E出入口",
+"x": 113.319158,
+"y": 23.1189165
+          },
+          "labels": [
+            "SubwayStation"
+          ]
+        },
+        {
+          "id": 196,
+          "properties": {
+"FID": 49,
+"osm_id": 6490092412,
+"ref": "APM线",
+"name": "花城大道 A出入口",
+"x": 113.3190622,
+"y": 23.1216064
+          },
+          "labels": [
+            "SubwayStation"
+          ]
+        },
+        {
+          "id": 197,
+          "properties": {
+"FID": 51,
+"osm_id": 5352227013,
+"ref": "APM线",
+"name": "花城大道站 B出入口",
+"x": 113.3191896,
+"y": 23.1214616
+          },
+          "labels": [
+            "SubwayStation"
+          ]
+        }
+      ]
+    }

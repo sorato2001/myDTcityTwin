@@ -1,0 +1,246 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        [
+                            1.0,
+                            0.0,
+                            0.0
+                        ],
+                        [
+                            1.0,
+                            1.0,
+                            0.0
+                        ],
+                        [
+                            0.0,
+                            1.0,
+                            0.0
+                        ],
+                        [
+                            0.0,
+                            0.0,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "type": "OBST",
+                "ID": "'",
+                "THICKEN": null,
+                "SURF_ID": "'Burner','Surface01','Surface01'"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.0,
+                            0.0,
+                            0.0
+                        ],
+                        [
+                            2.0,
+                            0.0,
+                            0.0
+                        ],
+                        [
+                            2.0,
+                            2.0,
+                            0.0
+                        ],
+                        [
+                            2.0,
+                            2.0,
+                            0.0
+                        ],
+                        [
+                            2.0,
+                            0.0,
+                            2.0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "type": "VENT",
+                "ID": "'Mesh",
+                "SURF_ID": "'OPEN'"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        [
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        [
+                            0.0,
+                            2.0,
+                            0.0
+                        ],
+                        [
+                            0.0,
+                            2.0,
+                            0.0
+                        ],
+                        [
+                            0.0,
+                            0.0,
+                            2.0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "type": "VENT",
+                "ID": "'Mesh",
+                "SURF_ID": "'OPEN'"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.0,
+                            2.0,
+                            0.0
+                        ],
+                        [
+                            2.0,
+                            2.0,
+                            0.0
+                        ],
+                        [
+                            2.0,
+                            2.0,
+                            0.0
+                        ],
+                        [
+                            0.0,
+                            2.0,
+                            0.0
+                        ],
+                        [
+                            0.0,
+                            2.0,
+                            2.0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "type": "VENT",
+                "ID": "'Mesh",
+                "SURF_ID": "'OPEN'"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        [
+                            2.0,
+                            0.0,
+                            0.0
+                        ],
+                        [
+                            2.0,
+                            0.0,
+                            0.0
+                        ],
+                        [
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        [
+                            0.0,
+                            0.0,
+                            2.0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "type": "VENT",
+                "ID": "'Mesh",
+                "SURF_ID": "'OPEN'"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.0,
+                            0.0,
+                            2.0
+                        ],
+                        [
+                            2.0,
+                            0.0,
+                            2.0
+                        ],
+                        [
+                            2.0,
+                            2.0,
+                            2.0
+                        ],
+                        [
+                            0.0,
+                            2.0,
+                            2.0
+                        ],
+                        [
+                            0.0,
+                            0.0,
+                            2.0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "type": "VENT",
+                "ID": "'Mesh",
+                "SURF_ID": "'OPEN'"
+            }
+        }
+    ]
+}

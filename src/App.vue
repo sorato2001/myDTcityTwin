@@ -17,7 +17,7 @@ import Cesium from './components/Cesium.vue';
 import Right from './components/Right.vue';
 import KG from './components/KnowledgeGraph.vue';
 import CK from './components/citykg.vue';
-// import CKT from './components/citykgTree.vue';
+import CKT from './components/citykgTree.vue';
 import FS from './components/Firesim1.vue';
 </script>
 <style>

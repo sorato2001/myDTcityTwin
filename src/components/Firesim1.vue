@@ -9,6 +9,7 @@
 import { Color } from 'cesium';
 import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
+import { TrackballControls } from 'three/addons/controls/TrackballControls.js';
 import { FireEffect } from './FireSimulation/FireSimulation.js';
 
 export default {
@@ -31,28 +32,36 @@ export default {
       // 初始化场景
       const scene = new THREE.Scene();
       const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 1, 1000);
+      camera.position.set(0, 0, 20); // 设置相机在 X 轴上
       const renderer = new THREE.WebGLRenderer();
 
       renderer.setSize(window.innerWidth, window.innerHeight);
       this.$refs.threeDScene.appendChild(renderer.domElement);
 
-      const controls = new OrbitControls(camera, renderer.domElement)
-      controls.enableDamping = true; // 启用阻尼感，使运动更加平滑
-      controls.dampingFactor = 0.25;
-      controls.screenSpacePanning = true;
+      const controls = new TrackballControls( camera, renderer.domElement);
+      controls.dynamicDampingFactor = 1;
+      controls.rotateSpeed = 8;
+      // controls.enableDamping = true; // 启用阻尼感，使运动更加平滑
+      // controls.dampingFactor = 0.25;
+      // controls.screenSpacePanning = true;
       // controls.minDistance = 2;
       // // controls.maxDistance = 10;
       // controls.maxPolarAngle = Math.PI ; // 限制垂直旋转
+      window.addEventListener('resize', () => onWindowResize())
+      const onWindowResize = () => {
+        renderer.setSize(window.innerWidth, window.innerHeight)
+        camera.aspect = window.innerWidth / window.innerHeight
+        camera.updateProjectionMatrix()
+      }
       scene.add(new THREE.AxesHelper(10000));
       this.loadGeoJson(this.geojsonData,scene, renderer, camera)
 
-      camera.position.z = 20;
-
       const animate = function () {
-        requestAnimationFrame(animate);
-        // cube.rotation.x += 0.01;
-        // cube.rotation.y += 0.01;
-        renderer.render(scene, camera);
+        requestAnimationFrame( animate );
+
+				controls.update();
+
+				renderer.render( scene, camera );
       };
 
       animate();

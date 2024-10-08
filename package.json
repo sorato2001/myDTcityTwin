@@ -12,6 +12,7 @@
     "3d-force-graph": "^1.73.3",
     "d3": "^7.9.0",
     "d3-force-3d": "^3.0.5",
+    "element-plus": "^2.8.4",
     "three": "^0.166.1",
     "three-spritetext": "^1.8.2",
     "vue": "^3.4.31"
@@ -21,6 +22,7 @@
     "@types/three": "^0.166.0",
     "@vitejs/plugin-vue": "^5.0.5",
     "proj4": "^2.9.0",
+    "sass": "^1.79.4",
     "typescript": "^5.2.2",
     "vite": "^5.3.4",
     "vite-plugin-cesium": "^1.2.22",
